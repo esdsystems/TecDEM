@@ -1,1 +1,7 @@
-{"name":"Tecdem","tagline":"Tectonics from Digital Elevation Models","body":"TecDEM\r\n======\r\nTecDEM- MATLAB based toolbox for understanding tectonics from Digital Elevation Model\r\n\r\nPlease refer to a short user guide for the use of this software.\r\n\r\nIf you have any questions or remarks, please contact the author:\r\n\r\nFaisal Shahzad\r\nRemote Sensing Group\r\nTU Bergakademie Freiberg, \r\nFreiberg Sachsen, Germany\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Tecdem",
+  "tagline": "Tectonics from Digital Elevation Models",
+  "body": "TecDEM: Tectonics from Digital Elevation Models\r\n================================================\r\nTecDEM- MATLAB based toolbox for understanding tectonics from Digital Elevation Model\r\n\r\nPlease refer to a short user guide for the use of this software.\r\n\r\nIf you have any questions or remarks, please contact the author:\r\n\r\nfor more information, please drop us an email on tecdem at icloud.com\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
